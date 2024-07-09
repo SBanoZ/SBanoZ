@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SBanoZ
-- 👀 I’m interested in therapeutic ultrasounds and EEG signals
-- 🌱 I’m currently learning EEG signal processing using MATLAB
-- 💞️ I’m looking to collaborate on project related to EEG of rat models
+- 👀 I’m interested in Bioinformatics
+- 🌱 I’m currently learning python in order to improve my coding skills
+- 💞️ I’m looking to collaborate on project related to bioinformatics
 - 📫 How to reach me ... sheharbanozaigham@gmail.com
 
 <!---
